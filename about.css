@@ -6,3 +6,18 @@
 #header{
   color: purple
 }
+
+#descript{
+  text-decoration: underline;
+  color: yellow;
+}
+
+#bigone{
+  border: 2px solid red;
+  border-radius: 10px;
+}
+
+#newshit{
+  color: blue;
+  text-decoration: overline;
+}
